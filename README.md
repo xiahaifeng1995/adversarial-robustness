@@ -3,17 +3,16 @@
 ## Attack
 - [ICLR19][A Frank-Wolfe Framework For Efficient And Effective Adversarial Attacks](https://arxiv.org/abs/1811.10828) - Jinghui Chen, Jinfeng Yi, Quanquan Gu
 - [ICLR19][ADVERSARIAL ATTACKS ON GRAPH NEURAL NETWORKS VIA META LEARNING ](https://arxiv.org/abs/1805.07984) - Daniel Zügner, Amir Akbarnejad, Stephan Günnemann
-- [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
-- [ICLR19][EXPLORING AND ENHANCING THE TRANSFERABILITY OF ADVERSARIAL EXAMPLES ](https://openreview.net/pdf?id=HyMRUiC9YX) - Lei Wu, Zhanxing Zhu, Cheng Tai
-- [ICLR19][OPTIMAL ATTACKS AGAINST MULTIPLE CLASSIFIERS ](https://openreview.net/pdf?id=rkl4M3R5K7) - Juan C. Perdomo, Yaron Singer
 - [ICLR19][STRUCTURED ADVERSARIAL ATTACK: TOWARDS GENERAL IMPLEMENTATION AND BETTER INTERPRETABILITY ](https://arxiv.org/abs/1808.01664) - Kaidi Xu, Sijia Liu, Pu Zhao, Pin-Yu Chen, Huan Zhang, Quanfu Fan, Deniz Erdogmus, Yanzhi Wang, Xue Lin
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK ](https://openreview.net/pdf?id=HylTBhA5tQ) - Huan Zhang, Hongge Chen, Zhao Song, Duane Boning, Inderjit S. Dhillon, Cho-Jui Hsieh
 - [NeurIPS2018][Adversarial Attacks on Stochastic Bandits ](https://arxiv.org/abs/1810.12188) - Kwang-Sung Jun, Lihong Li, Yuzhe Ma, Xiaojin Zhu
 ### black-box
 - [ICLR19][N ATTACK: A STRONG AND UNIVERSAL GAUSSIAN BLACK-BOX ADVERSARIAL ATTACK](https://openreview.net/pdf?id=ryeoxnRqKQ) - Yandong Li, Lijun Li, Liqiang Wang, Tong Zhang, Boqing Gong
 - [ICLR19][PRIOR CONVICTIONS: BLACK-BOX ADVERSARIAL ATTACKS WITH BANDITS AND PRIORS ](https://arxiv.org/abs/1807.07978) - Andrew Ilyas, Logan Engstrom, Aleksander Madry
+- [ICLR19][EXPLORING AND ENHANCING THE TRANSFERABILITY OF ADVERSARIAL EXAMPLES ](https://openreview.net/pdf?id=HyMRUiC9YX) - Lei Wu, Zhanxing Zhu, Cheng Tai
 ### white-box
 - [ICLR19][AN EFFICIENT AND MARGIN-APPROACHINGZERO-CONFIDENCE ADVERSARIAL ATTACK ](https://openreview.net/pdf?id=B1gHjoRqYQ) - Yang Zhang, Shiyu Chang, Mo Yu, Kaizhi Qian
+- [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
 
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
