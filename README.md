@@ -2,8 +2,8 @@
 本文档主要收集近期顶会上有关对抗样本的论文。
 ## Attack
 - [ICLR19][A Frank-Wolfe Framework For Efficient And Effective Adversarial Attacks](https://arxiv.org/abs/1811.10828) - Jinghui Chen, Jinfeng Yi, Quanquan Gu
-### Benchmarking
-- [ICLR19][BENCHMARKING NEURAL NETWORK ROBUSTNESS TO COMMON CORRUPTIONS AND PERTURBATIONS](https://arxiv.org/abs/1807.01697) - Dan Hendrycks, Thomas G. Dietterich
+- [ICLR19][ADVERSARIAL ATTACKS ON GRAPH NEURAL NETWORKS VIA META LEARNING ](https://arxiv.org/abs/1805.07984) - Daniel Zügner, Amir Akbarnejad, Stephan Günnemann
+- 
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
 >   1) Using modified training during learning or modified input during testing. 
@@ -25,11 +25,17 @@
 - [ICLR19][PEERNETS: EXPLOITING PEER WISDOM AGAINST ADVERSARIAL ATTACKS](https://arxiv.org/abs/1806.00088) - Jan Svoboda, Jonathan Masci, Federico Monti, Michael M. Bronstein, Leonidas Guibas
 - [ICLR19][TRAINING FOR FASTER ADVERSARIAL ROBUSTNESS VERIFICATION VIA INDUCING RELU STABILITY](https://arxiv.org/abs/1809.03008) - Kai Y. Xiao, Vincent Tjeng, Nur Muhammad Shafiullah, Aleksander Madry
 - [ICLR19][RANDOM MASK: TOWARDS ROBUST CONVOLUTIONAL NEURAL NETWORKS](https://openreview.net/pdf?id=SkgkJn05YX) - Tiange Luo, Tianle Cai, Mengxiao Zhang, Siyu Chen, Liwei Wang
+- [ICLR19][EVALUATING ROBUSTNESS OF NEURAL NETWORKS WITH MIXED INTEGER PROGRAMMING ](https://arxiv.org/abs/1711.07356) - Vincent Tjeng, Kai Xiao, Russ Tedrake
+- [ICLR19][INTERPRETING ADVERSARIAL ROBUSTNESS: A VIEW FROM DECISION SURFACE IN INPUT SPACE ](https://arxiv.org/abs/1810.00144) - Fuxun Yu, Chenchen Liu, Yanzhi Wang, Liang Zhao, Xiang Chen 
 ### Network add-on
 - [ICLR19][TOWARDS THE FIRST ADVERSARIALLY ROBUST NEURAL NETWORK MODEL ON MNIST](https://arxiv.org/abs/1805.09190) - Lukas Schott, Jonas Rauber, Matthias Bethge, Wieland Brendel
-### Analysis of Adversarial Examples
+## Analysis of Adversarial Examples
 - [ICLR19][ROBUSTNESS MAY BE AT ODDS WITH ACCURACY ](https://arxiv.org/abs/1805.12152) - Dimitris Tsipras, Shibani Santurkar, Logan Engstrom, Alexander Turner, Aleksander Madry
+- [ICLR19][ARE ADVERSARIAL EXAMPLES INEVITABLE? ](https://arxiv.org/abs/1809.02104) - Ali Shafahi, W. Ronny Huang, Christoph Studer, Soheil Feizi, Tom Goldstein
 ## Model Compression And Adversarial Robustness
 - [ICLR19][COMBINATORIAL ATTACKS ON BINARIZED NEURAL NETWORKS](https://arxiv.org/abs/1810.03538) - Elias B. Khalil, Amrita Gupta, Bistra Dilkina
 - [ICLR19][DEFENSIVE QUANTIZATION: WHEN EFFICIENCY MEETS ROBUSTNESS](https://openreview.net/pdf?id=ryetZ20ctX) - Ji Lin, Chuang Gan, Song Han
 - [NeurIps2018][Sparse DNNs with Improved Adversarial Robustness](https://arxiv.org/abs/1810.09619) - Yiwen Guo, Chao Zhang, Changshui Zhang, Yurong Chen
+## others
+- [ICLR19][COST-SENSITIVE ROBUSTNESS AGAINST ADVERSARIAL EXAMPLES ](https://arxiv.org/abs/1810.09225) - Xiao Zhang, David Evans
+- [ICLR19][BENCHMARKING NEURAL NETWORK ROBUSTNESS TO COMMON CORRUPTIONS AND PERTURBATIONS](https://arxiv.org/abs/1807.01697) - Dan Hendrycks, Thomas G. Dietterich
