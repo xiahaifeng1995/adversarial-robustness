@@ -1,9 +1,13 @@
 # adversarial robustness paper
-本文档主要收集近期顶会上有关对抗样本的论文。
+近期顶会对抗样本相关论文列表
 ## Attack
 - [ICLR19][A Frank-Wolfe Framework For Efficient And Effective Adversarial Attacks](https://arxiv.org/abs/1811.10828) - Jinghui Chen, Jinfeng Yi, Quanquan Gu
 - [ICLR19][ADVERSARIAL ATTACKS ON GRAPH NEURAL NETWORKS VIA META LEARNING ](https://arxiv.org/abs/1805.07984) - Daniel Zügner, Amir Akbarnejad, Stephan Günnemann
-- 
+- [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
+- [ICLR19][EXPLORING AND ENHANCING THE TRANSFERABILITY OF ADVERSARIAL EXAMPLES ](https://openreview.net/pdf?id=HyMRUiC9YX) - Lei Wu, Zhanxing Zhu, Cheng Tai
+- [ICLR19][OPTIMAL ATTACKS AGAINST MULTIPLE CLASSIFIERS ](https://openreview.net/pdf?id=rkl4M3R5K7) - Juan C. Perdomo
+jcperdomo@berkeley.edu
+, Yaron Singer
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
 >   1) Using modified training during learning or modified input during testing. 
