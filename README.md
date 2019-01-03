@@ -11,6 +11,7 @@
 >   3) Using external models as network add-on when classifying unseen examples.
 
 <div align=center><img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/></div>
+> figure from [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/pdf/1801.00553.pdf)
 
 ### Modified training / input
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
