@@ -9,7 +9,9 @@
 >   1) Using modified training during learning or modified input during testing. 
 >   2) Modifying networks, e.g. by adding more layers/subnetworks, changing loss/activation functions etc.
 >   3) Using external models as network add-on when classifying unseen examples.
-![](img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/)
+  <div style="align: center">
+  <img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/>
+  </div>
 ### Modified training / input
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
 - [ICLR19][FEATURE PRIORITIZATION AND REGULARIZATION IMPROVE STANDARD ACCURACY AND ADVERSARIAL ROBUSTNESS](https://openreview.net/pdf?id=ryG2Cs09Y7) - Chihuang Liu, Joseph JaJa
