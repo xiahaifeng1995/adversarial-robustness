@@ -18,7 +18,7 @@
 >   3) Using external models as network add-on when classifying unseen examples.
 
 <div align=center><img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/></div>
-> ###### <p align="right"> *Figure from "[Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)" by Goodfellow et al. ICLR15*</p>
+
 
 > ###### <p align="right"> *Figure from "[Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey]"(https://arxiv.org/pdf/1801.00553.pdf)*</p>
 
