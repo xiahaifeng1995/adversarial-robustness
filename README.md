@@ -24,7 +24,7 @@
 <div align=center><img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/></div>
 
 
-> ###### <p align="right"> *Figure from "[Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey]"(https://arxiv.org/pdf/1801.00553.pdf)*</p>
+> ###### <p align="right"> *Figure from "[Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/pdf/1801.00553.pdf)"*</p>
 
 ### Modified training / input
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
