@@ -10,7 +10,7 @@
 >   2) Modifying networks, e.g. by adding more layers/subnetworks, changing loss/activation functions etc.
 >   3) Using external models as network add-on when classifying unseen examples.
 
-<div align=center><img width="150" height="150" src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/></div>
+<div align=center><img src="https://github.com/hfeng-xia/adversarial-robustness/blob/master/IMG/1.jpg"/></div>
 
 ### Modified training / input
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
