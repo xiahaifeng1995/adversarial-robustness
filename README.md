@@ -22,7 +22,6 @@
 
 ### Modified training / input
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
-- [ICLR19][FEATURE PRIORITIZATION AND REGULARIZATION IMPROVE STANDARD ACCURACY AND ADVERSARIAL ROBUSTNESS](https://openreview.net/pdf?id=ryG2Cs09Y7) - Chihuang Liu, Joseph JaJa
 - [ICLR19][IMPROVED ROBUSTNESS TO ADVERSARIAL EXAMPLES USING LIPSCHITZ REGULARIZATION OF THE LOSS](https://arxiv.org/abs/1810.00953) - Chris Finlay, Adam Oberman, Bilal Abbasi
 - [ICLR19][IMPROVING THE GENERALIZATION OF ADVERSARIAL TRAINING WITH DOMAIN ADAPTATION](https://arxiv.org/abs/1810.00740) - Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft
 - [ICLR19][PLAYING THE GAME OF UNIVERSAL ADVERSARIAL PERTURBATIONS](https://arxiv.org/abs/1809.07802) - Julien Perolat, Mateusz Malinowski, Bilal Piot, Olivier Pietquin
