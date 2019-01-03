@@ -8,10 +8,13 @@
 - [ICLR19][OPTIMAL ATTACKS AGAINST MULTIPLE CLASSIFIERS ](https://openreview.net/pdf?id=rkl4M3R5K7) - Juan C. Perdomo, Yaron Singer
 - [ICLR19][STRUCTURED ADVERSARIAL ATTACK: TOWARDS GENERAL IMPLEMENTATION AND BETTER INTERPRETABILITY ](https://arxiv.org/abs/1808.01664) - Kaidi Xu, Sijia Liu, Pu Zhao, Pin-Yu Chen, Huan Zhang, Quanfu Fan, Deniz Erdogmus, Yanzhi Wang, Xue Lin
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK ](https://openreview.net/pdf?id=HylTBhA5tQ) - Huan Zhang, Hongge Chen, Zhao Song, Duane Boning, Inderjit S. Dhillon, Cho-Jui Hsieh
+- [NeurIPS2018][Adversarial Attacks on Stochastic Bandits ](https://arxiv.org/abs/1810.12188) - Kwang-Sung Jun, Lihong Li, Yuzhe Ma, Xiaojin Zhu
+### black-box
 - [ICLR19][N ATTACK: A STRONG AND UNIVERSAL GAUSSIAN BLACK-BOX ADVERSARIAL ATTACK](https://openreview.net/pdf?id=ryeoxnRqKQ) - Yandong Li, Lijun Li, Liqiang Wang, Tong Zhang, Boqing Gong
 - [ICLR19][PRIOR CONVICTIONS: BLACK-BOX ADVERSARIAL ATTACKS WITH BANDITS AND PRIORS ](https://arxiv.org/abs/1807.07978) - Andrew Ilyas, Logan Engstrom, Aleksander Madry
+### white-box
 - [ICLR19][AN EFFICIENT AND MARGIN-APPROACHINGZERO-CONFIDENCE ADVERSARIAL ATTACK ](https://openreview.net/pdf?id=B1gHjoRqYQ) - Yang Zhang, Shiyu Chang, Mo Yu, Kaizhi Qian
- - [NeurIPS2018][Adversarial Attacks on Stochastic Bandits ](https://arxiv.org/abs/1810.12188) - Kwang-Sung Jun, Lihong Li, Yuzhe Ma, Xiaojin Zhu
+
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
 >   1) Using modified training during learning or modified input during testing. 
