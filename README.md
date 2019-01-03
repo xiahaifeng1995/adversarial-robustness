@@ -6,7 +6,6 @@
 - [NeurIPS2018][Adversarial Attacks on Stochastic Bandits ](https://arxiv.org/abs/1810.12188) - Kwang-Sung Jun, Lihong Li, Yuzhe Ma, Xiaojin Zhu
 ### black-box
 - [ICLR19][PRIOR CONVICTIONS: BLACK-BOX ADVERSARIAL ATTACKS WITH BANDITS AND PRIORS ](https://arxiv.org/abs/1807.07978) - Andrew Ilyas, Logan Engstrom, Aleksander Madry
-- [ICLR19][EXPLORING AND ENHANCING THE TRANSFERABILITY OF ADVERSARIAL EXAMPLES ](https://openreview.net/pdf?id=HyMRUiC9YX) - Lei Wu, Zhanxing Zhu, Cheng Tai
 ### white-box
 - [ICLR19][AN EFFICIENT AND MARGIN-APPROACHINGZERO-CONFIDENCE ADVERSARIAL ATTACK ](https://openreview.net/pdf?id=B1gHjoRqYQ) - Yang Zhang, Shiyu Chang, Mo Yu, Kaizhi Qian
 - [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
