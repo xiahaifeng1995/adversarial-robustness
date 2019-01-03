@@ -24,18 +24,14 @@
 - [ICLR19][EFFICIENT TWO-STEP ADVERSARIAL DEFENSE FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=BklpOo09tQ) - Ting-Jui Chang, Yukun He, Peng Li
 - [ICLR19][IMPROVING THE GENERALIZATION OF ADVERSARIAL TRAINING WITH DOMAIN ADAPTATION](https://arxiv.org/abs/1810.00740) - Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft
 ### Modified networks
-- [ICLR19][A STUDY OF ROBUSTNESS OF NEURAL NETS USING APPROXIMATE FEATURE COLLISIONS](https://openreview.net/pdf?id=H1gDgn0qY7) - Ke Li, Tianhao Zhang, Jitendra Malik
 - [ICLR19][PEERNETS: EXPLOITING PEER WISDOM AGAINST ADVERSARIAL ATTACKS](https://arxiv.org/abs/1806.00088) - Jan Svoboda, Jonathan Masci, Federico Monti, Michael M. Bronstein, Leonidas Guibas
 - [ICLR19][TRAINING FOR FASTER ADVERSARIAL ROBUSTNESS VERIFICATION VIA INDUCING RELU STABILITY](https://arxiv.org/abs/1809.03008) - Kai Y. Xiao, Vincent Tjeng, Nur Muhammad Shafiullah, Aleksander Madry
-- [ICLR19][RANDOM MASK: TOWARDS ROBUST CONVOLUTIONAL NEURAL NETWORKS](https://openreview.net/pdf?id=SkgkJn05YX) - Tiange Luo, Tianle Cai, Mengxiao Zhang, Siyu Chen, Liwei Wang
 - [ICLR19][EVALUATING ROBUSTNESS OF NEURAL NETWORKS WITH MIXED INTEGER PROGRAMMING ](https://arxiv.org/abs/1711.07356) - Vincent Tjeng, Kai Xiao, Russ Tedrake
-- [ICLR19][INTERPRETING ADVERSARIAL ROBUSTNESS: A VIEW FROM DECISION SURFACE IN INPUT SPACE ](https://arxiv.org/abs/1810.00144) - Fuxun Yu, Chenchen Liu, Yanzhi Wang, Liang Zhao, Xiang Chen 
 - [ICLR19][TOWARDS THE FIRST ADVERSARIALLY ROBUST NEURAL NETWORK MODEL ON MNIST](https://arxiv.org/abs/1805.09190) - Lukas Schott, Jonas Rauber, Matthias Bethge, Wieland Brendel
 - [NeurIps2018][Efficient Neural Network Robustness Certification with General Activation Functions ](https://arxiv.org/abs/1811.00866?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529) - Huan Zhang, Tsui-Wei Weng, Pin-Yu Chen, Cho-Jui Hsieh, Luca Daniel
 
 #### Adversarial Detecting
 
-- [ICLR19][DETECTING ADVERSARIAL EXAMPLES VIA NEURAL FINGERPRINTING](https://arxiv.org/abs/1803.03870) - Sumanth Dathathri, Stephan Zheng, Richard M. Murray, Yisong Yue
 - [NeurIps2018][Towards Robust Detection of Adversarial Examples ](https://arxiv.org/abs/1706.00633) - Tianyu Pang, Chao Du, Yinpeng Dong, Jun Zhu
 
 
