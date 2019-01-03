@@ -5,7 +5,6 @@
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK ](https://openreview.net/pdf?id=HylTBhA5tQ) - Huan Zhang, Hongge Chen, Zhao Song, Duane Boning, Inderjit S. Dhillon, Cho-Jui Hsieh
 - [NeurIPS2018][Adversarial Attacks on Stochastic Bandits ](https://arxiv.org/abs/1810.12188) - Kwang-Sung Jun, Lihong Li, Yuzhe Ma, Xiaojin Zhu
 ### black-box
-- [ICLR19][N ATTACK: A STRONG AND UNIVERSAL GAUSSIAN BLACK-BOX ADVERSARIAL ATTACK](https://openreview.net/pdf?id=ryeoxnRqKQ) - Yandong Li, Lijun Li, Liqiang Wang, Tong Zhang, Boqing Gong
 - [ICLR19][PRIOR CONVICTIONS: BLACK-BOX ADVERSARIAL ATTACKS WITH BANDITS AND PRIORS ](https://arxiv.org/abs/1807.07978) - Andrew Ilyas, Logan Engstrom, Aleksander Madry
 - [ICLR19][EXPLORING AND ENHANCING THE TRANSFERABILITY OF ADVERSARIAL EXAMPLES ](https://openreview.net/pdf?id=HyMRUiC9YX) - Lei Wu, Zhanxing Zhu, Cheng Tai
 ### white-box
