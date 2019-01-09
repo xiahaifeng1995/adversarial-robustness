@@ -24,6 +24,7 @@
 ### Modified training / input
 - [NeurIps2018][Thwarting Adversarial Examples: An L0-Robust Sparse Fourier Transform ](https://papers.nips.cc/paper/8211-thwarting-adversarial-examples-an-l_0-robust-sparse-fourier-transform.pdf) - Mitali Bafna, Jack Murtagh, Nikhil Vyas
 - [NeurIps2018][Bayesian Adversarial Learning ](https://papers.nips.cc/paper/7921-bayesian-adversarial-learning) - Nanyang Ye, Zhanxing Zhu
+- [arxiv2018][Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373v1.pdf) - Harini Kannan, Alexey Kurakin, Ian Goodfellow
 ### Modified networks
 - [ICLR19][PEERNETS: EXPLOITING PEER WISDOM AGAINST ADVERSARIAL ATTACKS](https://arxiv.org/abs/1806.00088) - Jan Svoboda, Jonathan Masci, Federico Monti, Michael M. Bronstein, Leonidas Guibas
 - [ICLR19][TRAINING FOR FASTER ADVERSARIAL ROBUSTNESS VERIFICATION VIA INDUCING RELU STABILITY](https://arxiv.org/abs/1809.03008) - Kai Y. Xiao, Vincent Tjeng, Nur Muhammad Shafiullah, Aleksander Madry
