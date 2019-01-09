@@ -39,6 +39,7 @@
 - [NeurIps2018][Towards Robust Detection of Adversarial Examples ](https://arxiv.org/abs/1706.00633) - Tianyu Pang, Chao Du, Yinpeng Dong, Jun Zhu
 - [NeurIps2018][Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks ](https://papers.nips.cc/paper/8016-robust-detection-of-adversarial-attacks-by-modeling-the-intrinsic-properties-of-deep-neural-networks.pdf) - Zhihao Zheng, Pengyu Hong
 - [NeurIps2018][Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples ](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, Xiangyu Zhang
+- [AAAL2019][Resisting Adversarial Attacks Using Gaussian Mixture Variational Autoencoders](https://arxiv.org/pdf/1806.00081v2.pdf) - Partha Ghosh, Arpan Losalka, Michael J Black
 
 
 ### Network add-on
