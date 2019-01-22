@@ -22,6 +22,7 @@
 > ###### <p align="right"> *Figure from "[Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/pdf/1801.00553.pdf)"*</p>
 
 ### Modified training / input
+- [ICLR19] [IMPROVING THE GENERALIZATION OF ADVERSARIAL TRAINING WITH DOMAIN ADAPTATION](https://arxiv.org/pdf/1810.00740v5.pdf) - Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft
 - [NeurIps2018][Thwarting Adversarial Examples: An L0-Robust Sparse Fourier Transform ](https://papers.nips.cc/paper/8211-thwarting-adversarial-examples-an-l_0-robust-sparse-fourier-transform.pdf) - Mitali Bafna, Jack Murtagh, Nikhil Vyas
 - [NeurIps2018][Bayesian Adversarial Learning ](https://papers.nips.cc/paper/7921-bayesian-adversarial-learning) - Nanyang Ye, Zhanxing Zhu
 - [arxiv2018][Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373v1.pdf) - Harini Kannan, Alexey Kurakin, Ian Goodfellow
