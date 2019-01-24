@@ -1,8 +1,6 @@
 # 对抗训练
 ## 鞍点公式（最小最大值公式）
-    $$
-    \min_{\theta} \left(E_{(x,y)\sim D} \left[\max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) \right] \right)
-    $$
+    $$\min_{\theta} \left(E_{(x,y)\sim D} \left[\max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) \right] \right)$$
     在实际优化求解的时候，内部对应着对抗攻击生成对抗样本的过程，
     所以对抗训练实际上是在由干净样本生成的对抗样本上进行训练。
     所以通常对抗攻击越强，对抗训练的效果也越好。
