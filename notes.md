@@ -11,7 +11,7 @@
    Repeat:<br>
     1. Selet minibatch B, initialize gradient vecter g :=0 <br>
     2. For each (x,y) in B: <br>
-        a. Find an attack perturbation $\delta^*$ by (approxiamtely) optimizing <br>
+        a. Find an attack perturbation $ m\delta^* $ by (approxiamtely) optimizing <br>
         $$ \delta^* = $$ <br>
    
   
