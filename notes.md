@@ -1,5 +1,5 @@
 # 对抗训练
-  ## 1. 鞍点公式（最小最大值公式）
+  ## 鞍点公式（最小最大值公式）
   $$
   \min_{\theta} \left(E_{(x,y)\sim D} \left[\max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) \right] \right)
   $$
