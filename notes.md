@@ -2,6 +2,6 @@
 
 ## 优化公式
   $$
-  \mathop{\min}_\theta (E_(x,y)\sim D)
+  \begin{matrix} \int_{-N}^{N} e^x\, dx\end{matrix}
   $$
     
