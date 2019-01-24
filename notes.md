@@ -1,6 +1,6 @@
 # 对抗训练
 ## 优化公式
 $$
-(E_{(x,y)\sim D})
+\min_theta (E_{(x,y)\sim D})
 $$
 
