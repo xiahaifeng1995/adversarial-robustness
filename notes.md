@@ -1,5 +1,5 @@
 # 对抗训练
 ## 优化公式
   $$
-  \mathop{\min}_\theta (E_2)
+  \mathop{\min}_\theta (E_(2,3))
   $$
