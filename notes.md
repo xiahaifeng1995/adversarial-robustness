@@ -16,7 +16,7 @@
        &nbsp; &nbsp;    b. Add gradient at $ \delta^* $ <br>
        &nbsp; &nbsp;&nbsp; &nbsp;   $ g :=  g + \bigtriangledown_{\theta} J(\theta,x+\delta^*,y) $ <br>
      &nbsp; 3. Update parameters $ \theta $ <br>
-        &nbsp; &nbsp;&nbsp; &nbsp;  $ \theta := \theta -\frac{\alpha}{\vert B \vert} g
+        &nbsp; &nbsp;&nbsp; &nbsp;  $ \theta := \theta -\frac{\alpha}{\vert B \vert} g $
        
                
 
