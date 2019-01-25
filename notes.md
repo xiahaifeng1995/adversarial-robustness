@@ -10,8 +10,8 @@
     也就是说要求模型在worst-case 输入情况下依然鲁棒，模型才有可能得到最优的鲁棒性。
   > 算法流程如下  
    Repeat:<br>
-     &nbsp; 1. Selet minibatch B, initialize gradient vecter $ g :=0 $<br>
-     &nbsp; 2. For each $ (x,y) $ in B: <br>
+     &nbsp; 1. Selet minibatch $ B $, initialize gradient vecter $ g :=0 $<br>
+     &nbsp; 2. For each $ (x,y) $ in $ B $: <br>
        &nbsp; &nbsp;    a. Find an attack perturbation $ \delta^* $ by (approxiamtely) optimizing </br>
        &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   $ \delta^* = \max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) $ <br>
        &nbsp; &nbsp;    b. Add gradient at $ \delta^* $ <br>
