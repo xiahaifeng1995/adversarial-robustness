@@ -14,7 +14,7 @@
        &nbsp; &nbsp;    a. Find an attack perturbation $ \delta^* $ by (approxiamtely) optimizing <br>  
        &nbsp; &nbsp;&nbsp; &nbsp;   $ \delta^* = \mathop{\arg\max}_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) $ <br>
        &nbsp; &nbsp;    b. Add gradient at $ \delta^* $ <br>
-       &nbsp; &nbsp;&nbsp; &nbsp;   $ g :=  g + \bigtriangledown_{\theta} J(\theta,x+\delta^*,y) $ <br>
+       &nbsp; &nbsp;&nbsp; &nbsp;   $$ g :=  g + \bigtriangledown_{\theta} J(\theta,x+\delta^*,y) $$ <br>
        
        
       
