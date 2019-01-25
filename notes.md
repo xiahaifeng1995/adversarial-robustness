@@ -13,11 +13,11 @@
      &nbsp; 1. Selet minibatch B, initialize gradient vecter $ g :=0 $<br>
      &nbsp; 2. For each $ (x,y) $ in B: <br>
        &nbsp; &nbsp;    a. Find an attack perturbation $ \delta^* $ by (approxiamtely) optimizing </br>
-       &nbsp; &nbsp;&nbsp; &nbsp;   $ \delta^* = \max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) $ <br>
+       &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   $ \delta^* = \max_{\Vert\delta\Vert \leq \epsilon } J(\theta,x+\delta,y) $ <br>
        &nbsp; &nbsp;    b. Add gradient at $ \delta^* $ <br>
-       &nbsp; &nbsp;&nbsp; &nbsp;   $ g :=  g + \bigtriangledown_{\theta} J(\theta,x+\delta^*,y) $ <br>
+       &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   $ g :=  g + \bigtriangledown_{\theta} J(\theta,x+\delta^*,y) $ <br>
      &nbsp; 3. Update parameters $ \theta $ <br>
-        &nbsp; &nbsp;&nbsp; &nbsp;  $ \theta := \theta -\frac{\alpha}{\vert B \vert} g $ <br>
+        &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  $ \theta := \theta -\frac{\alpha}{\vert B \vert} g $ <br>
     
     
        
