@@ -27,7 +27,8 @@
 - [NeurIps2018][Bayesian Adversarial Learning ](https://papers.nips.cc/paper/7921-bayesian-adversarial-learning) - Nanyang Ye, Zhanxing Zhu
 - [arxiv2018][Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373v1.pdf) - Harini Kannan, Alexey Kurakin, Ian Goodfellow
 - [AAAL2018][Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/pdf/1711.09404.pdf) - Andrew Slavin Ross,  Finale Doshi-Velez
-- [ICLR18][STOCHASTIC ACTIVATION PRUNING FOR ROBUST ADVERSARIAL DEFENSE](https://arxiv.org/pdf/1803.01442.pdf) - Guneet S. Dhillon, Kamyar Azizzadenesheli, Zachary C. Lipton, Jeremy Bernstein, Jean Kossaifi, Aran Khanna, Anima Anandkumar
+- [ICLR2018][Cascade Adversarial Machine Learning Regularized with a Unified Embedding ](https://arxiv.org/abs/1708.02582) - Taesik Na, Jong Hwan Ko, Saibal Mukhopadhyay
+
 
 ### Modified networks
 - [ICLR19][PEERNETS: EXPLOITING PEER WISDOM AGAINST ADVERSARIAL ATTACKS](https://arxiv.org/abs/1806.00088) - Jan Svoboda, Jonathan Masci, Federico Monti, Michael M. Bronstein, Leonidas Guibas
@@ -37,6 +38,7 @@
 - [NeurIps2018][Efficient Neural Network Robustness Certification with General Activation Functions ](https://arxiv.org/abs/1811.00866?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529) - Huan Zhang, Tsui-Wei Weng, Pin-Yu Chen, Cho-Jui Hsieh, Luca Daniel
 - [NeurIps2018][Semidefinite relaxations for certifying robustness to adversarial examples ](https://arxiv.org/abs/1811.01057) - Aditi Raghunathan, Jacob Steinhardt, Percy Liang
 - [NeurIps2018][Efficient Formal Safety Analysis of Neural Networks ](https://arxiv.org/abs/1809.08098) - Shiqi Wang, Kexin Pei, Justin Whitehouse, Junfeng Yang, Suman Jana
+- [ICLR18][STOCHASTIC ACTIVATION PRUNING FOR ROBUST ADVERSARIAL DEFENSE](https://arxiv.org/pdf/1803.01442.pdf) - Guneet S. Dhillon, Kamyar Azizzadenesheli, Zachary C. Lipton, Jeremy Bernstein, Jean Kossaifi, Aran Khanna, Anima Anandkumar
 
 
 #### Adversarial Detecting
@@ -45,7 +47,7 @@
 - [NeurIps2018][Robust Detection of Adversarial Attacks by Modeling the Intrinsic Properties of Deep Neural Networks ](https://papers.nips.cc/paper/8016-robust-detection-of-adversarial-attacks-by-modeling-the-intrinsic-properties-of-deep-neural-networks.pdf) - Zhihao Zheng, Pengyu Hong
 - [NeurIps2018][Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples ](https://arxiv.org/abs/1810.11580) - Guanhong Tao, Shiqing Ma, Yingqi Liu, Xiangyu Zhang
 - [AAAL2019][Resisting Adversarial Attacks Using Gaussian Mixture Variational Autoencoders](https://arxiv.org/pdf/1806.00081v2.pdf) - Partha Ghosh, Arpan Losalka, Michael J Black
-- [ICLR2018][Cascade Adversarial Machine Learning Regularized with a Unified Embedding ](https://arxiv.org/abs/1708.02582) - Taesik Na, Jong Hwan Ko, Saibal Mukhopadhyay
+
 
 
 ### Network add-on
