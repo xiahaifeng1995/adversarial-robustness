@@ -28,6 +28,7 @@
 - [arxiv2018][Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373v1.pdf) - Harini Kannan, Alexey Kurakin, Ian Goodfellow
 - [AAAL2018][Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/pdf/1711.09404.pdf) - Andrew Slavin Ross,  Finale Doshi-Velez
 - [ICLR2018][Cascade Adversarial Machine Learning Regularized with a Unified Embedding ](https://arxiv.org/abs/1708.02582) - Taesik Na, Jong Hwan Ko, Saibal Mukhopadhyay
+- [IJCAL2018][Curriculum Adversarial Training](https://web.kamihq.com/web/viewer.html?state=%7B%22ids%22%3A%5B%221qW8LCY-BXiZh0_H0riwvy8aBltjKBse7%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22104130955753285146508%22%7D&filename=undefined) - Qi-Zhi Cai, Min Du , Chang Liu , Dawn Song 
 
 
 ### Modified networks
