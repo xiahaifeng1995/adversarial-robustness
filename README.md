@@ -32,6 +32,7 @@
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK](https://arxiv.org/pdf/1901.04684v1.pdf) - Huan Zhang
 , Hongge Chen, Zhao Song, Duane Boning, Inderjit Dhillon, Cho-Jui Hsieh
 - [AAAL18][Regularizing deep networks using efficient layerwise adversarial training](https://arxiv.org/abs/1705.07819) - Swami Sankaranarayanan, Arpit Jain, Rama Chellappa, Ser Nam Lim
+- [NeurIps2018][Hessian-based Analysis of Large Batch Training and Robustness to Adversaries](https://arxiv.org/pdf/1802.08241v4.pdf) - Zhewei Yao1, Amir Gholami1, Qi Lei, Kurt Keutzer, Michael W. Mahoney
 
 
 
@@ -63,13 +64,16 @@
 - [ICLR19][ARE ADVERSARIAL EXAMPLES INEVITABLE? ](https://arxiv.org/abs/1809.02104) - Ali Shafahi, W. Ronny Huang, Christoph Studer, Soheil Feizi, Tom Goldstein
 - [NeurIps2018][Adversarial Examples that Fool both Computer Vision and Time-Limited Humans ](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 - [airxiv2019][Towards Understanding Adversarial Examples Systematically: Exploring Data Size, Task and Model Factors](https://arxiv.org/abs/1902.11019) - Ke Sun, Zhanxing Zhu, Zhouchen Lin
+
 ## Model Compression And Adversarial Robustness
 - [ICLR19][COMBINATORIAL ATTACKS ON BINARIZED NEURAL NETWORKS](https://arxiv.org/abs/1810.03538) - Elias B. Khalil, Amrita Gupta, Bistra Dilkina
 - [ICLR19][DEFENSIVE QUANTIZATION: WHEN EFFICIENCY MEETS ROBUSTNESS](https://openreview.net/pdf?id=ryetZ20ctX) - Ji Lin, Chuang Gan, Song Han
 - [NeurIps2018][Sparse DNNs with Improved Adversarial Robustness](https://arxiv.org/abs/1810.09619) - Yiwen Guo, Chao Zhang, Changshui Zhang, Yurong Chen
 - [arxiv2018][TO COMPRESS OR NOT TO COMPRESS: UNDERSTANDING THE INTERACTIONS BETWEEN ADVERSARIAL ATTACKS AND NEURAL NETWORK COMPRESSION ](https://arxiv.org/pdf/1810.00208v1.pdf) - Yiren Zhao, Ilia Shumailov, Robert Mullins, Ross Anderson
+
 ## Others
 - [ICLR19][COST-SENSITIVE ROBUSTNESS AGAINST ADVERSARIAL EXAMPLES ](https://arxiv.org/abs/1810.09225) - Xiao Zhang, David Evans
 - [ICLR19][BENCHMARKING NEURAL NETWORK ROBUSTNESS TO COMMON CORRUPTIONS AND PERTURBATIONS](https://arxiv.org/abs/1807.01697) - Dan Hendrycks, Thomas G. Dietterich
+
 ## blogs
 - [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
