@@ -31,6 +31,7 @@
 - [IJCAL2018][Curriculum Adversarial Training](https://web.kamihq.com/web/viewer.html?state=%7B%22ids%22%3A%5B%221qW8LCY-BXiZh0_H0riwvy8aBltjKBse7%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22104130955753285146508%22%7D&filename=undefined) - Qi-Zhi Cai, Min Du , Chang Liu , Dawn Song 
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK](https://arxiv.org/pdf/1901.04684v1.pdf) - Huan Zhang
 , Hongge Chen, Zhao Song, Duane Boning, Inderjit Dhillon, Cho-Jui Hsieh
+- [AAAL18][Regularizing deep networks using efficient layerwise adversarial training](https://arxiv.org/abs/1705.07819) - Swami Sankaranarayanan, Arpit Jain, Rama Chellappa, Ser Nam Lim
 
 
 
