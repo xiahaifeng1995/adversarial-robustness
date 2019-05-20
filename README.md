@@ -10,10 +10,11 @@
 - [arxiv2017][ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models.](https://arxiv.org/pdf/1708.03999.pdf) - 	Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, Cho-Jui Hsieh
 - [arxiv2019][Boundary Attack++: Query-Efficient Decision-Based Adversarial Attack](https://arxiv.org/pdf/1904.02144v1.pdf) - Jianbo Chen,Michael I. Jordan
 - [cvpr19][Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433) - Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang, Jun Zhu
-### white-box
-- [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
 - [ECCV2018][Transferable Adversarial Perturbations](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.pdf) - Wen Zhou
 , Xin Hou , YongjunChen, Mengyun Tang, XiangqiHuang, Xiang Gan, and Yong Yang
+### white-box
+- [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
+
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
 >   1) Using modified training during learning or modified input during testing. 
