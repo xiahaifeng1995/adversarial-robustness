@@ -14,6 +14,8 @@
 , Xin Hou , YongjunChen, Mengyun Tang, XiangqiHuang, Xiang Gan, and Yong Yang
 ### white-box
 - [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
+- [CVPR2019][Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](https://arxiv.org/pdf/1811.09600v3.pdf) - Jérôme Rony,  Luiz G. Hafemann,  Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger
+
 
 ## Defense
 > Currently, the defenses against the adversarial attacks are being developed along three main directions: (for details,read [this paper](https://arxiv.org/pdf/1801.00553.pdf))
