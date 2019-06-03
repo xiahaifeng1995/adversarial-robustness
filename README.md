@@ -12,9 +12,13 @@
 - [cvpr19][Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433) - Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang, Jun Zhu
 - [ECCV2018][Transferable Adversarial Perturbations](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.pdf) - Wen Zhou
 , Xin Hou , YongjunChen, Mengyun Tang, XiangqiHuang, Xiang Gan, and Yong Yang
+- [ICLR18] [DECISION-BASEDADVERSARIAL ATTACKS: RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODELS](https://arxiv.org/pdf/1712.04248v2.pdf) - Wieland Brendel, Jonas Rauber, Matthias Bethge
 ### white-box
 - [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
 - [CVPR2019][Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](https://arxiv.org/pdf/1811.09600v3.pdf) - Jérôme Rony,  Luiz G. Hafemann,  Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger
+- [CVPR2019][Trust Region Based Adversarial Attack on Neural Networks](https://arxiv.org/pdf/1812.06371v1.pdf) - Zhewei Yao,  Amir Gholami,  Peng Xu, Kurt Keutzer, Michael W. Mahoney
+- [CVPR2019][Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](https://arxiv.org/pdf/1811.09600v3.pdf) - Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismai Ben Ayed, Robert Sabourin, Eric Granger
+
 
 
 ## Defense
@@ -71,6 +75,7 @@
 - [ICLR19][ARE ADVERSARIAL EXAMPLES INEVITABLE? ](https://arxiv.org/abs/1809.02104) - Ali Shafahi, W. Ronny Huang, Christoph Studer, Soheil Feizi, Tom Goldstein
 - [NeurIps2018][Adversarial Examples that Fool both Computer Vision and Time-Limited Humans ](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 - [airxiv2019][Towards Understanding Adversarial Examples Systematically: Exploring Data Size, Task and Model Factors](https://arxiv.org/abs/1902.11019) - Ke Sun, Zhanxing Zhu, Zhouchen Lin
+- [airxiv2019][Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf) - Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander M ˛adry
 
 ## Model Compression And Adversarial Robustness
 - [ICLR19][COMBINATORIAL ATTACKS ON BINARIZED NEURAL NETWORKS](https://arxiv.org/abs/1810.03538) - Elias B. Khalil, Amrita Gupta, Bistra Dilkina
