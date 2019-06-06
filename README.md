@@ -44,6 +44,7 @@
 , Hongge Chen, Zhao Song, Duane Boning, Inderjit Dhillon, Cho-Jui Hsieh
 - [AAAL18][Regularizing deep networks using efficient layerwise adversarial training](https://arxiv.org/abs/1705.07819) - Swami Sankaranarayanan, Arpit Jain, Rama Chellappa, Ser Nam Lim
 - [NeurIps2018][Hessian-based Analysis of Large Batch Training and Robustness to Adversaries](https://arxiv.org/pdf/1802.08241v4.pdf) - Zhewei Yao1, Amir Gholami1, Qi Lei, Kurt Keutzer, Michael W. Mahoney
+- [arxiv2019][Adversarial Training for Free! ](https://arxiv.org/pdf/1904.12843.pdf) - Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein
 
 
 
