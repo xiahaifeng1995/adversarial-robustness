@@ -60,7 +60,7 @@
 - [NeurIps2018][Semidefinite relaxations for certifying robustness to adversarial examples ](https://arxiv.org/abs/1811.01057) - Aditi Raghunathan, Jacob Steinhardt, Percy Liang
 - [NeurIps2018][Efficient Formal Safety Analysis of Neural Networks ](https://arxiv.org/abs/1809.08098) - Shiqi Wang, Kexin Pei, Justin Whitehouse, Junfeng Yang, Suman Jana
 - [ICLR18][STOCHASTIC ACTIVATION PRUNING FOR ROBUST ADVERSARIAL DEFENSE](https://arxiv.org/pdf/1803.01442.pdf) - Guneet S. Dhillon, Kamyar Azizzadenesheli, Zachary C. Lipton, Jeremy Bernstein, Jean Kossaifi, Aran Khanna, Anima Anandkumar
-- [
+
 
 
 #### Adversarial Detecting
