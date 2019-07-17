@@ -1,5 +1,5 @@
 # adversarial robustness paper
-近期顶会对抗样本相关论文列表
+
 ## Attack
 - [ICLR19][STRUCTURED ADVERSARIAL ATTACK: TOWARDS GENERAL IMPLEMENTATION AND BETTER INTERPRETABILITY ](https://arxiv.org/abs/1808.01664) - Kaidi Xu, Sijia Liu, Pu Zhao, Pin-Yu Chen, Huan Zhang, Quanfu Fan, Deniz Erdogmus, Yanzhi Wang, Xue Lin
 - [ICLR19][THE LIMITATIONS OF ADVERSARIAL TRAINING AND THE BLIND-SPOT ATTACK ](https://openreview.net/pdf?id=HylTBhA5tQ) - Huan Zhang, Hongge Chen, Zhao Song, Duane Boning, Inderjit S. Dhillon, Cho-Jui Hsieh
@@ -17,7 +17,7 @@
 - [ICLR19][ADEF: AN ITERATIVE ALGORITHM TO CONSTRUCT ADVERSARIAL DEFORMATIONS ](https://arxiv.org/abs/1804.07729) - Rima Alaifari, Giovanni S. Alberti, Tandri Gauksson
 - [CVPR2019][Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](https://arxiv.org/pdf/1811.09600v3.pdf) - Jérôme Rony,  Luiz G. Hafemann,  Luiz S. Oliveira, Ismail Ben Ayed, Robert Sabourin, Eric Granger
 - [CVPR2019][Trust Region Based Adversarial Attack on Neural Networks](https://arxiv.org/pdf/1812.06371v1.pdf) - Zhewei Yao,  Amir Gholami,  Peng Xu, Kurt Keutzer, Michael W. Mahoney
-- [CVPR2019][Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial Attacks and Defenses](https://arxiv.org/pdf/1811.09600v3.pdf) - Jérôme Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismai Ben Ayed, Robert Sabourin, Eric Granger
+
 
 
 
@@ -45,7 +45,10 @@
 - [AAAL18][Regularizing deep networks using efficient layerwise adversarial training](https://arxiv.org/abs/1705.07819) - Swami Sankaranarayanan, Arpit Jain, Rama Chellappa, Ser Nam Lim
 - [NeurIps2018][Hessian-based Analysis of Large Batch Training and Robustness to Adversaries](https://arxiv.org/pdf/1802.08241v4.pdf) - Zhewei Yao1, Amir Gholami1, Qi Lei, Kurt Keutzer, Michael W. Mahoney
 - [arxiv2019][Adversarial Training for Free! ](https://arxiv.org/pdf/1904.12843.pdf) - Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein
-
+- [CVPR2019][Rob-GAN: Generator, Discriminator, and Adversarial Attacker](https://arxiv.org/abs/1807.10454) - Xuanqing Liu, Cho-Jui Hsieh
+- [ICML2019][Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/pdf/1901.08573.pdf) - Hongyang Zhang, Yaodong Yu, Jiantao Jiao, Eric P. Xing, Laurent El Ghaoui, Michael I. Jordan
+- [arxiv2019][Max-Margin Adversarial (MMA) Training: Direct Input Space Margin Maximization through Adversarial Training](https://arxiv.org/abs/1812.02637) - Gavin Weiguang Ding, Yash Sharma, Kry Yik Chau Lui, Ruitong Huang
+- [CVPR2019][Robustness via curvature regularization, and vice versa](https://arxiv.org/abs/1811.09716) - Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Jonathan Uesato, Pascal Frossard
 
 
 ### Modified networks
@@ -57,6 +60,7 @@
 - [NeurIps2018][Semidefinite relaxations for certifying robustness to adversarial examples ](https://arxiv.org/abs/1811.01057) - Aditi Raghunathan, Jacob Steinhardt, Percy Liang
 - [NeurIps2018][Efficient Formal Safety Analysis of Neural Networks ](https://arxiv.org/abs/1809.08098) - Shiqi Wang, Kexin Pei, Justin Whitehouse, Junfeng Yang, Suman Jana
 - [ICLR18][STOCHASTIC ACTIVATION PRUNING FOR ROBUST ADVERSARIAL DEFENSE](https://arxiv.org/pdf/1803.01442.pdf) - Guneet S. Dhillon, Kamyar Azizzadenesheli, Zachary C. Lipton, Jeremy Bernstein, Jean Kossaifi, Aran Khanna, Anima Anandkumar
+- [
 
 
 #### Adversarial Detecting
@@ -76,7 +80,7 @@
 - [ICLR19][ARE ADVERSARIAL EXAMPLES INEVITABLE? ](https://arxiv.org/abs/1809.02104) - Ali Shafahi, W. Ronny Huang, Christoph Studer, Soheil Feizi, Tom Goldstein
 - [NeurIps2018][Adversarial Examples that Fool both Computer Vision and Time-Limited Humans ](https://arxiv.org/abs/1802.08195) - Gamaleldin F. Elsayed, Shreya Shankar, Brian Cheung, Nicolas Papernot, Alex Kurakin, Ian Goodfellow, Jascha Sohl-Dickstein
 - [airxiv2019][Towards Understanding Adversarial Examples Systematically: Exploring Data Size, Task and Model Factors](https://arxiv.org/abs/1902.11019) - Ke Sun, Zhanxing Zhu, Zhouchen Lin
-- [airxiv2019][Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf) - Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander M ˛adry
+- [airxiv2019][Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf) - Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry
 
 ## Model Compression And Adversarial Robustness
 - [ICLR19][COMBINATORIAL ATTACKS ON BINARIZED NEURAL NETWORKS](https://arxiv.org/abs/1810.03538) - Elias B. Khalil, Amrita Gupta, Bistra Dilkina
